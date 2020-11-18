@@ -11,13 +11,13 @@ Main.java
  Main
 NaughtyStudent.java
  NaughtyStudent
-LectureTest.java
- LectureTest
+Level.java
+ Level
 NaughtyStudentTest.java
  NaughtyStudentTest
 StudentTest.java
  StudentTest
 HasLevel.java
  HasLevel
-Level.java
- Level
+LectureTest.java
+ LectureTest

@@ -16,6 +16,6 @@ class LectureTest {
 
     @org.junit.jupiter.api.Test
     void getHighestAverageGrade() {
-        assertEquals(5.5,TLC.getHighestAverageGrade());
+        assertEquals(4.5,TLC.getHighestAverageGrade());
     }
 }
